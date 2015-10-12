@@ -13,7 +13,7 @@ class HeadlineGenerator
     "2015 Guide to", "Get Higher", "Want to Rank Higher? Try", "Announcing the Death of", "Amazing Content For"]
   
   $bait = ["What To Expect With the Latest Panda Update for", "First Mobilepocalypse, Now", "Is Mobile the New",
-    "Bing Announes Support for", "Google Ads? Try", "Have Your Rankings Plummeted? Time to Check Your",
+    "Bing Announces Support for", "Google Ads? Try", "Have Your Rankings Plummeted? Time to Check Your",
     "DuckDuckGo is the New", "Upgrade to HTTPS or Risk Losing"]
 
   $buzzwords = ["Outreach", "Link Building", "Paid Search", "Google", "#SEO", "Optimization", "PPC", "Analytics",
